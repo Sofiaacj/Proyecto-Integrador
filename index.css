@@ -1,0 +1,120 @@
+body{
+    margin: 0px;
+	background-color; white;
+	font-family: Cambria;
+}
+.contenedor{
+	width: 90%;
+	background-color: #9c978f;
+	margin-left: auto;
+	margin-right: auto;
+    height: 100%;
+}
+.footer{
+	background-color: #595959 ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footer p{
+	color: white;
+	text-align: center;
+}
+.menu{
+	float: right;
+	text-align: right;
+    margin-top: 0px;
+}
+.menu ul{
+	list-style: none;
+	float: right; 
+	margin: 0px;
+}
+.menu ul li{
+	float: left;
+	margin-right: 15px;
+	font-weight: Bold;
+    letter-spacing: 2px;
+}
+.menu ul li a{
+	color: white; 
+	text-decoration: none;
+	font-size: 11px;
+}
+header{
+	height: 25px;
+	background-color: #198191
+}
+.titulo{
+	color: white;
+	font-weight: Bold;
+	margin-top: 0px;
+    letter-spacing: 2px;
+    float: left;
+}
+.video{
+	margin-left: auto;
+	margin-right: auto;
+	display: block; 
+	padding-top:35px;
+	padding-bottom:110px;
+}
+h2{
+	text-align: center;
+	color: white;
+	font-family: Cambria;
+	padding-top: 15px;
+}
+.ejercicios{
+	text-align: center;
+	color: white;
+	font-family: Cambria;
+	padding-top: 15px;
+	font-size: 20px;
+}
+.vejercicio{
+	margin-left: auto;
+	margin-right: auto;
+	display: block; 
+	padding-top:35px;
+	padding-bottom:35px;
+}
+.fquimica{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+    height: 50%;
+}
+.comic{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+    height: 45%;
+}
+.descripcion{
+	text-align:justify;
+	color: white;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.botonarriba{
+	width: 50px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.comentario{
+	text-align:justify;
+	color: white;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.imageng{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
